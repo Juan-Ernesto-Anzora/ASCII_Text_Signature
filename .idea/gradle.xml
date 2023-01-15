@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -11,6 +12,31 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ASCII Text Signature/task" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/test-results" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Digits or not" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Encoding table" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Previous character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Sequence" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of characters" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of integers" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of longs" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Right ways to create mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/The last element of a list" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Extraction of a character" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Last symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Name Card" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Operations and truth" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The information about a person" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The same line" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
